@@ -1,0 +1,7 @@
+".ipynb_checkpoints/" 
+"*.tsv" 
+"*.npy" 
+"*.pkl" 
+"*.h5" 
+"__pycache__/" 
+".env" 
